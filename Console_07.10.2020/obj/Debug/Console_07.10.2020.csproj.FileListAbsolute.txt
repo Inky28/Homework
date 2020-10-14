@@ -1,0 +1,7 @@
+C:\Users\igop2\source\repos\Console_07.10.2020\Console_07.10.2020\bin\Debug\Console_07.10.2020.exe.config
+C:\Users\igop2\source\repos\Console_07.10.2020\Console_07.10.2020\bin\Debug\Console_07.10.2020.exe
+C:\Users\igop2\source\repos\Console_07.10.2020\Console_07.10.2020\bin\Debug\Console_07.10.2020.pdb
+C:\Users\igop2\source\repos\Console_07.10.2020\Console_07.10.2020\obj\Debug\Console_07.10.2020.csprojAssemblyReference.cache
+C:\Users\igop2\source\repos\Console_07.10.2020\Console_07.10.2020\obj\Debug\Console_07.10.2020.csproj.CoreCompileInputs.cache
+C:\Users\igop2\source\repos\Console_07.10.2020\Console_07.10.2020\obj\Debug\Console_07.10.2020.exe
+C:\Users\igop2\source\repos\Console_07.10.2020\Console_07.10.2020\obj\Debug\Console_07.10.2020.pdb
