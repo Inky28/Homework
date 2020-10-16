@@ -1,3 +1,6 @@
+# ignore .md
+*.md
+
 # ignore .vs
 .vs/
 
